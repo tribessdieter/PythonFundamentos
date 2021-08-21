@@ -1,0 +1,5 @@
+print('olá')
+print("boa sorte")
+print('Ola','valderlei','dieter','gabriel','felipe')
+print('Ola','\nValderlei','\nDieter','\nGabriel','\nFelipe')
+print('Ola','\n\tValderlei','\n\tDieter','\n\tGabriel','\n\tFelipe')
