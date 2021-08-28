@@ -28,3 +28,8 @@ print(bebidas)
 # deleta um dado ou intervalo de dados de uma lista
 del(bebidas[1:3])
 print(bebidas)
+
+# CRUDE
+# C - Create
+# R - Read
+# u - 
